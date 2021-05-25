@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/clicktimesbutton/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/clicktimesbutton/static/js/main.542dfb72.chunk.js",
+    "main.js.map": "/clicktimesbutton/static/js/main.542dfb72.chunk.js.map",
+    "runtime-main.js": "/clicktimesbutton/static/js/runtime-main.573fe93f.js",
+    "runtime-main.js.map": "/clicktimesbutton/static/js/runtime-main.573fe93f.js.map",
+    "static/js/2.b8e8002a.chunk.js": "/clicktimesbutton/static/js/2.b8e8002a.chunk.js",
+    "static/js/2.b8e8002a.chunk.js.map": "/clicktimesbutton/static/js/2.b8e8002a.chunk.js.map",
+    "static/js/3.56d2f09a.chunk.js": "/clicktimesbutton/static/js/3.56d2f09a.chunk.js",
+    "static/js/3.56d2f09a.chunk.js.map": "/clicktimesbutton/static/js/3.56d2f09a.chunk.js.map",
+    "index.html": "/clicktimesbutton/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/clicktimesbutton/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b8e8002a.chunk.js.LICENSE.txt": "/clicktimesbutton/static/js/2.b8e8002a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.573fe93f.js",
+    "static/js/2.b8e8002a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.542dfb72.chunk.js"
+  ]
+}
